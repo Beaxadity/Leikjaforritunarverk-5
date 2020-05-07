@@ -1,4 +1,7 @@
 # Leikjaforritunarverk-5
+
+--> https://beaxadity.github.io/Leikjaforritunarverk-5/ <--
+
 Quiz 1
 ![Quiz 1](https://github.com/Beaxadity/Leikjaverkefni5munsetjaverkefni-repositor-i-/blob/master/Myndir/Quiz%201.PNG)
 Quiz 2
